@@ -5,17 +5,17 @@ in react-chat-pretty</h2>
 <h3>
   First Page
 </h3>
-<img src="first.jpg"/>
+<img src="first.png"/>
 <h3>
   Second Page
 </h3>
-<img src="second.jpg"/>
+<img src="second.png"/>
 <h3>
   Main Page
 </h3>
-<img src="third.jpg"/>
-<img src="fourth.jpg"/>
-<img src="fifth.jpg"/>
+<img src="third.png"/>
+<img src="fourth.png"/>
+
 
 
 
